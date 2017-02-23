@@ -1,4 +1,4 @@
-import static org.junit.Assert.*;
+/*import static org.junit.Assert.*;
 import junit.framework.TestCase;
 import model.Person;
 
@@ -41,4 +41,4 @@ public class PersonTest {
 	}
 	
 	
-}
+}*/
