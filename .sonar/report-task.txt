@@ -1,0 +1,5 @@
+projectKey=demo_1
+serverUrl=http://172.27.59.130:9008
+dashboardUrl=http://172.27.59.130:9008/dashboard/index/demo_1
+ceTaskId=AV5btemqk9LMh_zYk7EB
+ceTaskUrl=http://172.27.59.130:9008/api/ce/task?id=AV5btemqk9LMh_zYk7EB
