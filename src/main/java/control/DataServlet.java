@@ -24,7 +24,7 @@ public class DataServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		
 		String selectedHobby = "";
-		for (String hobby : request.GetParameterValues("hobby")) {
+		for (String hobby : request.getParameterValues("hobby")) {
 			selectedHobby += hobby + " ";
 		}
 		out.println("<html><body><h2>Your data</h2>" +
