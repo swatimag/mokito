@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns = "/hello")
-public class GreetingServlet extends HttpServlet {
+public class greetingServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 	
@@ -21,9 +21,12 @@ public class GreetingServlet extends HttpServlet {
 		response.setContentType("text/html");		
 		PrintWriter out = response.getWriter();
 		System.out.println("in servlet");
+		System.out.println("in servlet");
 		out.println("hello user");
 		out.close();
 	}
 	
 
 }
+
+
