@@ -1,0 +1,5 @@
+projectKey=PMSeries
+serverUrl=http://172.27.15.221:9000
+dashboardUrl=http://172.27.15.221:9000/dashboard/index/PMSeries
+ceTaskId=AWX7lw005cJbLoyMRsLH
+ceTaskUrl=http://172.27.15.221:9000/api/ce/task?id=AWX7lw005cJbLoyMRsLH
